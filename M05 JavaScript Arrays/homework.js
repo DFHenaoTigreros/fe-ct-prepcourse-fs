@@ -110,9 +110,9 @@ function multiplicarArgumentos() {
          return 0;
       } else {
          resultado *= num;
+      }
    }
    return resultado;
-
 }
 
 function cuentoElementos(array) {
